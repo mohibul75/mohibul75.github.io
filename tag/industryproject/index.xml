@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IndustryProject | Mohibul Alam</title>
+    <link>https://mohibul75.github.io/tag/industryproject/</link>
+      <atom:link href="https://mohibul75.github.io/tag/industryproject/index.xml" rel="self" type="application/rss+xml" />
+    <description>IndustryProject</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mohibul75.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>IndustryProject</title>
+      <link>https://mohibul75.github.io/tag/industryproject/</link>
+    </image>
+    
+    <item>
+      <title>Abra</title>
+      <link>https://mohibul75.github.io/project/abra/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://mohibul75.github.io/project/abra/</guid>
+      <description>&lt;p&gt;Abra is an innovative Internet of Things (IoT) project that aims to enhance the safety and security of homes. The project offers comprehensive home insurance against common incidents such as burglary, fire, and water damage. The system is designed to detect incidents automatically and respond immediately to minimize damage.&lt;/p&gt;
+&lt;p&gt;Abra&amp;rsquo;s advanced IoT technology incorporates smart sensors and surveillance cameras that can detect unexpected activities and alert the user promptly through a mobile application. The system allows homeowners to monitor their property 24/7, ensuring that they are always aware of what is happening in and around their homes.&lt;/p&gt;
+&lt;p&gt;In the event of an incident, Abra&amp;rsquo;s automated response system is triggered, and the user is alerted instantly. This enables homeowners to take quick and decisive action to mitigate the damage, contact the relevant authorities, or request assistance from Abra&amp;rsquo;s customer support team.&lt;/p&gt;
+&lt;p&gt;Abra&amp;rsquo;s insurance coverage offers peace of mind to homeowners, knowing that their property and assets are protected against unforeseen incidents. The system&amp;rsquo;s user-friendly interface makes it easy for homeowners to manage their insurance policy, track incidents, and submit claims directly through the mobile application.&lt;/p&gt;
+&lt;p&gt;Overall, Abra is a cutting-edge IoT project that combines insurance coverage and smart home technology to offer a comprehensive solution for home safety and security.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

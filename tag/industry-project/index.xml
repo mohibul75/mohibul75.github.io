@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Industry Project | Mohibul Alam</title>
+    <link>https://mohibul75.github.io/tag/industry-project/</link>
+      <atom:link href="https://mohibul75.github.io/tag/industry-project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Industry Project</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mohibul75.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Industry Project</title>
+      <link>https://mohibul75.github.io/tag/industry-project/</link>
+    </image>
+    
+    <item>
+      <title>Abra</title>
+      <link>https://mohibul75.github.io/project/abra/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://mohibul75.github.io/project/abra/</guid>
+      <description>&lt;p&gt;Abra is an IoT project that offers comprehensive home insurance against burglary, fire, and water damage. With smart sensors and surveillance cameras, homeowners can monitor their property 24/7 and receive instant alerts through a mobile app. Abra&amp;rsquo;s automated response system allows for quick action to mitigate damage and contact relevant authorities. The user-friendly interface makes it easy to manage insurance policy, track incidents, and submit claims.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;My Responsibility:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Implemented infrastructure on AWS serverless architecture using best practices.&lt;/li&gt;
+&lt;li&gt;Used Infrastructure as Code (IAC) approach with Terraform to automate infrastructure provisioning and management.&lt;/li&gt;
+&lt;li&gt;Provisioned various AWS services such as Lambda, SQS, EventBridge, IAM, CloudWatch, CloudFront, S3, Cognito, DynamoDB, SNS, and SES to ensure scalability, high availability, and cost optimization.&lt;/li&gt;
+&lt;li&gt;Developed a comprehensive CI/CD pipeline using GitLab CI/CD, allowing for automated testing, continuous integration, and deployment of changes to production in a secure and efficient manner.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Task Station</title>
+      <link>https://mohibul75.github.io/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://mohibul75.github.io/project/external-project/</guid>
+      <description>&lt;p&gt;Task Station 23 by Brain Station 23 is a powerful tool that simplifies daily stand-ups for employees. With seamless integrations with popular project management tools such as Jira, Teams, ERP, Azure DevOps, and Trello, it allows for efficient tracking of project information, tasks, and time.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;My Responsibility:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed scalable and resilient AWS Cloud Services architecture for application&lt;/li&gt;
+&lt;li&gt;Utilized Terraform for Infrastructure as Code (IAC) to automate infrastructure deployment&lt;/li&gt;
+&lt;li&gt;Provisioned AWS services including S3, CloudFront, VPC, EC2, Load Balancer, Route53, and Certificate Manager&lt;/li&gt;
+&lt;li&gt;Implemented robust CI/CD pipeline using AWS Code Pipeline for automated build, test, and deployment&lt;/li&gt;
+&lt;li&gt;Ensured high code quality and reliability throughout the project lifecycle.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
