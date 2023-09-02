@@ -46,6 +46,55 @@
     </item>
     
     <item>
+      <title>Sykehuspartner</title>
+      <link>https://mohibul75.github.io/project/sykeuspartner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mohibul75.github.io/project/sykeuspartner/</guid>
+      <description>&lt;p&gt;Sykehuspartner is a cutting-edge mobile application designed to simplify device tracking and allocation within hospitals. It streamlines the process of assigning digital devices to staff based on their shifts, ensuring efficient resource utilization and reducing administrative burden. This innovative solution enhances device availability, accountability, and operational efficiency in healthcare settings. Sykehuspartner is the answer to optimizing hospital device management.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Responsibilities: Backend Infrastructure Management in Azure&lt;/strong&gt;&lt;/em&gt;
+In my role as the Backend Infrastructure Manager for the Sykehuspartner project, I took on several key responsibilities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Azure Infrastructure Provisioning:
+&lt;ul&gt;
+&lt;li&gt;Provisioned and maintained the Azure infrastructure, including the App Service and Container Service, ensuring optimal performance, scalability, and security for the backend services.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;CI/CD Pipeline Implementation:
+&lt;ul&gt;
+&lt;li&gt;Designed and implemented a robust Continuous Integration/Continuous Deployment (CI/CD) pipeline using GitHub Actions. This pipeline automated the build and deployment processes, allowing for efficient updates of the Docker image on the Azure App Service.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Docker Image Management:
+&lt;ul&gt;
+&lt;li&gt;Managed the creation and maintenance of Docker images, ensuring they were compatible with the Azure App Service Container Service. This involved optimizing container configurations for seamless deployment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Code Quality Assurance with SonarQube:
+&lt;ul&gt;
+&lt;li&gt;Utilized SonarQube for code quality analysis and review. I set up SonarQube on an Azure Virtual Machine (VM), enabling continuous code inspection and improvement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Azure AD Management:
+&lt;ul&gt;
+&lt;li&gt;Managed Azure Active Directory (Azure AD) configurations, including access control and app registration. I ensured that the right individuals or services had appropriate access permissions while maintaining security standards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Security and Compliance:
+&lt;ul&gt;
+&lt;li&gt;Implemented security best practices to safeguard the backend infrastructure and data. This included monitoring and addressing potential vulnerabilities and ensuring compliance with healthcare data regulations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Documentation and Knowledge Sharing:
+&lt;ul&gt;
+&lt;li&gt;Maintained comprehensive documentation of the Azure infrastructure setup, configurations, and procedures. I also collaborated with the project team to share knowledge regarding Azure AD, CI/CD pipeline, and SonarQube integration.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My role played a critical part in ensuring a stable, secure, and efficient backend infrastructure for Sykehuspartner. By orchestrating Azure services, implementing CI/CD pipelines, and overseeing code quality through SonarQube, I contributed to the project&amp;rsquo;s success in optimizing hospital device management.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Wilhelmsen Platfrom 13</title>
       <link>https://mohibul75.github.io/project/wilhelmsen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
